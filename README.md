@@ -15,4 +15,4 @@
 - Comprender que Estas propiedades pueden ser cualquier tipo de datos, como números, cadenas, objetos o incluso funciones y que el componente hijo puede luego utilizar estas props para renderizar contenido, realizar acciones o cualquier otra funcionalidad que necesite.
 
   Enlace a ejercicio desplegado: 🔗
-  [Ejercicio 02](https://.../)
+  [Ejercicio 02](https://glowing-dragon-a22002.netlify.app)
