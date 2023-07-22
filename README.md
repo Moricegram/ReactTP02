@@ -1,8 +1,8 @@
-# EJERCICIOS CON REACT 💻
+# EJERCICIOS CON REACT
 
 ## Prácticas con componentes
 
-![logoreact](https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png)
+![logoreact](https://www.patterns.dev/img/reactjs/react-logo@3x.svg)
 
 ## Ejercicio 2
 
