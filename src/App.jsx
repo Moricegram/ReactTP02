@@ -5,11 +5,9 @@ import Saludo from "./components/Saludo.jsx";
 function App() {
   const individuo = "My Friend";
   return (
-    <div>
-      <h1>
-        <Saludo nombre={individuo} />
-      </h1>
-    </div>
+    <>
+      <Saludo nombre={individuo} />
+    </>
   );
 }
 

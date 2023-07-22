@@ -1,6 +1,5 @@
 const Saludo = (props) => {
-  return <div>Hello {props.nombre}!</div>;
-  git;
+  return <h1>Hello {props.nombre}!</h1>;
 };
 
 export default Saludo;
